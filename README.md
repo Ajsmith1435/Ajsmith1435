@@ -13,17 +13,15 @@
 
 ### 🎓 Education
 - **Georgia Tech** - MSCS
-- **CU Boulder** - Bachelors
+- **CU Boulder** - Sko
 
 ### 💼 Current Focus
-Building and scaling open core companies around exceptional open source projects. Pairing talented open source authors with a platform optimized for a first-time founder's success by building open core.
+Building and scaling open core companies around exceptional open source projects. 
 
 ### 🏃‍♂️ Beyond the Code
 - Training for an IronMan
 - Exploring new cities
-- Dog parent 🐕
 
-### 🌆 City Vibes
 <div align="center">
   
   ![Boulder](https://img.shields.io/badge/Boulder-1F2937?style=for-the-badge&logo=mapbox&logoColor=white)
@@ -35,7 +33,9 @@ Building and scaling open core companies around exceptional open source projects
 ### 📊 GitHub Stats
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajsmi&show_icons=true&theme=dark&hide_border=true)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ajsmith1435&theme=dark&hide_border=true)
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajsmith1435&layout=compact&theme=dark&hide_border=true)
   
 </div>
 
