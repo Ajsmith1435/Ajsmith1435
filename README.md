@@ -6,12 +6,11 @@
 
 > Building the future of open source at [Open Core Ventures](https://opencoreventures.com)
 
-### 📊 GitHub Stats
 <div align="center">
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ajsmith1435&theme=dark&hide_border=true)
+  ### 📊 GitHub Stats
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajsmith1435&layout=compact&theme=dark&hide_border=true)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ajsmith1435&theme=dark&hide_border=true)
   
 </div>
 
