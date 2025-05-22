@@ -2,7 +2,6 @@
 
 <div align="center">
   
-  ![GitHub followers](https://img.shields.io/github/followers/ajsmi?label=Follow&style=social)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alex%20Smith-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/alex-james-smith/)
   
 </div>
