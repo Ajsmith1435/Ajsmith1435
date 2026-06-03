@@ -8,15 +8,6 @@
 
 <div align="center">
   
-  ### 📊 GitHub Stats
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ajsmith1435&theme=dark&hide_border=true)
-  
-</div>
-
----
-<div align="center">
-  
   *"**The credit belongs to the man who is actually in the arena**"*  
   <br>
   <sub>— Theodore Roosevelt</sub>
